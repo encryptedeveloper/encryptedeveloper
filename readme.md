@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ethone (udpdog)
+# Hex (udpdog)
 
 </div>
 
